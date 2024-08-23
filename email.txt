@@ -1,0 +1,48 @@
+Email 1: 
+Hello, Zaki! 
+Your account has been Deactivated.
+
+EMAIL 2: 
+SUBJECT: MEETING REMINDER
+BODY: DON'T FORGET ABOUT THE MEETING TOMORROW.
+
+email 3:
+subject: important update 
+body: please review the attached document.
+
+Email 4:
+subject: follow up
+body: this email needs to be capitalized.
+
+Email 5:
+subject: Weekly Update
+body: Here is your Weekly Update on the project status.
+
+email 6:
+subject:Feedback
+body:Thank you for your feedback. Please respond at your earliest convenience.
+
+Email 7:
+subject: error report
+body: The system encountered an error error that needs to be addressed.
+
+Email 8:
+subject: keyword search
+body: Please find the keyword 'search' in this email.
+
+The keyword search can be found at position 26
+
+Email 9:
+ subject: word split
+ body: Split this email into individual words.
+
+list of words are ['Email', '9:\n', 'subject:', 'word', 'split\n', 'body:', 'Split', 'this', 'email', 'into', 'individual', 'words.\n\n']
+
+Email 10: 
+subject: words join 
+body: join these words into a single sentence.
+
+Email10:
+subject:wordsjoin
+body:jointhesewordsintoasinglesentence.
+
